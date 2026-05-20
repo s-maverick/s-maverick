@@ -4,7 +4,7 @@
 
 ### *Data Scientist · AI/ML Engineer · Founder · Researcher*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge)](https://s-maverick.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge)](https://sangampatil.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangampatil29/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s-maverick)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-2fwlMQAAAAJ&hl=en)
@@ -12,14 +12,6 @@
 [![Calendly](https://img.shields.io/badge/Calendly-Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/asangampatil/30min)
 
 </div>
-
----
-
-## 🗂️ About This Repo
-
-This is the source code for my **personal portfolio website** — a fully hand-crafted, single-page site built with HTML, CSS, Bootstrap, and a touch of JavaScript. It's home to my story, projects, research, and everything in between.
-
-> *"I didn't get into data science because it was trending. I got into it because I genuinely enjoy the puzzle — taking a messy dataset and finding something in it that actually changes a decision."*
 
 ---
 
@@ -93,16 +85,6 @@ That startup experience changed how I think about data work: it's not enough to 
 
 - 📈 **ML Intern** @ RacksonsIT Developers *(Oct 2022 – Mar 2023)*
   Implemented Modern Portfolio Theory (MPT) on 250M+ financial records to generate optimized, risk-adjusted investment recommendations.
-
----
-
-## 🏗️ Built With
-
-```
-HTML5 · CSS3 · Bootstrap 5 · JavaScript
-AOS · Typed.js · Swiper.js · GLightbox · Isotope
-Dark Mode Toggle · Responsive Design
-```
 
 ---
 
